@@ -14,7 +14,15 @@
   "author": "Leonardo Espinoza <leocode0@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoCode0/random-messages-with-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeoCode0/random-messages-with-js/issues"
+  },
+  "homepage": "https://github.com/LeoCode0/random-messages-with-js#readme"
 }
